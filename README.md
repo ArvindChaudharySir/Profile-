@@ -1,2 +1,24 @@
-# Profile-
-B.Sc. Student 🎓 | Developer in Progress 💻 | Exploring Python, Web &amp; Open Source | Building • Learning • Growing 
+
+# Hi 👋, I'm Sameer
+
+🎓 B.Sc. Student
+💻 Aspiring Developer
+🔬 Science Enthusiast
+
+## 🚀 Currently Learning
+- Python
+- Git & GitHub
+- Web Development
+- Open Source
+
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+
+## 🎯 Goals
+- Build useful projects
+- Contribute to Open Source
+- Improve my development skills
